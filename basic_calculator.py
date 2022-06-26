@@ -1,0 +1,10 @@
+n1 = int(input('Enter first number : '))
+n2 = int(input('Enter second number : '))
+sum = n1 + n2
+print('Sum =', sum)
+minus = n1 - n2
+print('minus =', minus)
+multiply= n1 * n2
+print( 'multiply =', multiply)
+divide= n1 / n2
+print ( 'divide =', divide)
